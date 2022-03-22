@@ -3,7 +3,7 @@
 This Python template lets you get started quickly with a simple one-page playground.
 
 ```python runnable
-print('Hello World!')
+print(random.randint(1, 10))
 ```
 
 # Advanced usage
